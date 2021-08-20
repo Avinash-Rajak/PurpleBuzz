@@ -1,0 +1,68 @@
+#index_banner {
+  background-image: url(/img/slider.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
+
+.carousel-control-prev i {
+  color: #6266ea;
+  font-size: 4rem;
+  text-decoration: none;
+}
+
+.carousel-control-next i {
+  color: #6266ea;
+  font-size: 4em;
+  text-decoration: none;
+}
+
+.carouselExampleIndicators {
+  background-color: #6266ea;
+}
+
+#service_h2 {
+  font-size: 40px;
+}
+
+.fa-gift {
+  font-size: 25px;
+}
+
+.heading {
+  font-size: 28px;
+}
+
+.service-wrapper .service-footer {
+  min-width: 720px !important;
+}
+
+.bg-secondary {
+  background-color: #6266ea !important;
+}
+
+.card {
+  border-radius: 10px !important;
+  cursor: pointer;
+}
+
+
+.footer{
+    background-color:#4232c2;
+}
+
+.btn-primary{
+    background-color:#4232c2;
+    border: none;
+}
+
+
+.btn-outline-primary:hover{
+    background-color: #4232c2 !important;
+}
+
+.service-header i{
+    position: relative;
+    top: 29px;
+}
+/*# sourceMappingURL=main.css.map */
